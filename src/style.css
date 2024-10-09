@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+p {
+  font-style: italic;
+  font-size: xx-large;
+  color: rgba(249, 86, 217, 0.982);
+  font-weight: bold;
+}
